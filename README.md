@@ -1,2 +1,2 @@
 # intro-cd-ulead
-Repo del material del curso de Introducción a Ciencias de Datos de LEAD University.
+Repo del material del curso de Introducción a Ciencias de Datos de LEAD University. Trabajos elaborados entre setiembre y diciembre del 2025. 
